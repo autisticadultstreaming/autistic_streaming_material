@@ -1,0 +1,9 @@
+De-Center: A tool designed to help streamers maintain their audience during unexpected breaks. When a streamer needs to step away, De-Center notifies pre-approved fellow streamers who can temporarily take over the stream.
+
+ - Quick activation: Streamer hits a "Need Break" button.
+ - Trusted network: Alerts go out to a pre-selected group of streamers.
+ - Seamless transition: The first to respond takes over the stream temporarily.
+ - Viewer retention: Implements subtle reminders to viewers about the original streamer's return.
+ - Flexible timing: Allows for extending break times if needed, updating viewers automatically.
+
+De-Center aims to provide a support system for streamers who need to take sudden breaks, particularly useful for neurodivergent streamers who may need to manage sensory overload or potential meltdowns. It offers a potential solution to maintain viewership during absences.
